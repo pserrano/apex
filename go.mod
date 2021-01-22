@@ -1,5 +1,7 @@
 module github.com/apex/apex
 
+go 1.15
+
 require (
 	github.com/Unknwon/goconfig v0.0.0-20161121224340-87a46d97951e
 	github.com/apex/log v1.0.0
